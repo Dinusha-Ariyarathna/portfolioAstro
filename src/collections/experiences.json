@@ -1,23 +1,24 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "February 2024 · Present",
+		"role": "Full Stack Software Engineer",
+		"company": "Epic Lanka Technologies - Fintech",
+		"description": "Contributed to the development of a microservices-based project for the Sri Lankan Tea Board Value Chain Management System.",
+		"logo": "https://media.licdn.com/dms/image/v2/C560BAQH00MCBWLYYyA/company-logo_200_200/company-logo_200_200/0/1631348879206?e=2147483647&v=beta&t=7vmJ5uCoxH0_ZJ0m-oqQ02YIDCWLGLZ56hldymozBwk"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
+		"dates": "February 2023 · February 2024",
+		"role": "Associate Full Stack Software Engineer",
+		"company": "Epic Lanka Technologies - Fintech",
+		"description": "As an Associate Software Engineer, led development efforts on multiple cutting-edge fintech projects, including NDB Neos Internet Banking, First Capitol Investments online admin portal, First Capitol Investments EKYC portal, and Bank of Ceylon Internet Banking, leveraging expertise in software engineering principles to drive innovation and achieve measurable results.",
+		"logo": "https://media.licdn.com/dms/image/v2/C560BAQH00MCBWLYYyA/company-logo_200_200/company-logo_200_200/0/1631348879206?e=2147483647&v=beta&t=7vmJ5uCoxH0_ZJ0m-oqQ02YIDCWLGLZ56hldymozBwk"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
-	}
+		"dates": "August 2022 · February 2023",
+		"role": "Intern Full Stack Software Engineer",
+		"company": "Epic Lanka Technologies - Fintech",
+		"description": "Gained experience in FINTECH with online banking solutions for National Development Bank, Neos platform, and FirstCapitol eKYC platforms. Utilized technologies such as Spring MVC, Java, Spring Boot, Maven, Hibernate, Angular, JSP, and MySQL. I had the opportunity to work on complex Java backends and gain an understanding of project structures.",
+		"logo": "https://media.licdn.com/dms/image/v2/C560BAQH00MCBWLYYyA/company-logo_200_200/company-logo_200_200/0/1631348879206?e=2147483647&v=beta&t=7vmJ5uCoxH0_ZJ0m-oqQ02YIDCWLGLZ56hldymozBwk"
+  }
+
 ]
